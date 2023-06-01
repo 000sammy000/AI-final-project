@@ -1,7 +1,7 @@
 # AI-final-project
 Task overview:
 
-在這次的project，我們希望能透過Generative AI，自由調整各種款式的衣服。我們使用到StyleGAN2-ADA訓練出的ClothingGAN model，並在google colab上利用Gradio UI library生成介面，可以藉由調整拉桿生成想要的衣服類型，最後用FID評估並分析結果。
+在這次的project，我們希望能透過Generative AI，生成各種款式的衣服，並可以自由調整。我們使用到StyleGAN2-ADA訓練出的ClothingGAN model，並在google colab上利用Gradio UI library生成介面，可以藉由調整拉桿生成想要的衣服類型，最後用FID評估並分析結果。
 
 
 code:
