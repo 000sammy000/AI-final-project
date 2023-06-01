@@ -1,7 +1,7 @@
 # AI-final-project
 Task overview:
 
-這次的project，我們希望能透過Generative AI得到各式各樣的衣服的圖片。我們使用ClothingGAN model生成衣服的圖像，並用FID評估並分析結果。
+在這次的project，我們希望能透過Generative AI，得到各式各樣的衣服的圖片。我們使用到StyleGAN2-ADA訓練出的ClothingGAN model，並在google colab上利用Gradio UI library生成介面，可以藉由調整拉桿生成想要的衣服類型，最後用FID評估並分析結果。
 
 
 code:
