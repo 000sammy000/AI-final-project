@@ -6,14 +6,21 @@ Task overview:
 
 code:
   
-  1.ClothGAN_ipynb:
+  1.ClothGAN.ipynb:
     
     environment:Google Colab
     
-    packet:The needed packet can be download 
+    packet:The needed packet can be download in the nootbook
     
     usage:loading model and generating image.
     
     reference:https://github.com/mfrashad/ClothingGAN/tree/master
     
- 2.
+   2.evaluation.ipynb:
+   
+      environment:Google Colab
+      
+      packet:The needed packet can be download in the nootbook
+      
+      usage:Using FID to evaluate the result of model.
+      
