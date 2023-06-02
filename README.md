@@ -18,7 +18,7 @@ code:
     
    2.evaluation.ipynb:
    
-      environment:Google Colab
+      environment:Jupyter
       
       packet:The needed packet can be download in the nootbook
       
